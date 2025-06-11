@@ -7,7 +7,7 @@
     </div>
 
     <div class="w-9/12">
-        <table class="full border p-3">
+        <table class="full border p-3 bg-amber-200">
             <thead>
                 <tr>
                     <th class="border p-3">Id</th>
